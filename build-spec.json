@@ -1,0 +1,1 @@
+{"package-name": "python-systemd", "commit": "v234", "clone-url": "https://github.com/systemd/python-systemd.git", "upload-to": {"type": "github-release", "repo-id": "pywheelhouse/wheelwright", "release-id": "python-systemd-v234"}}
